@@ -21,3 +21,8 @@ Using the same library, queries have been to make the relevant analysis giving t
 
 ## Python Flask
 
+A connection to the sqlite file is established in the application also using sqlalchemy.
+Using Flask, a landing page is rendered to advise users on different static and dynamic routes to view the database.
+
+<img width="947" alt="1" src="https://user-images.githubusercontent.com/85002751/213864479-9e32be7f-448b-4f5f-82e3-a59c1ac84aaa.png">
+<img width="956" alt="2" src="https://user-images.githubusercontent.com/85002751/213864484-97f4634f-ab60-40cb-ab27-939fa36c6f64.png">
